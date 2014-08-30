@@ -2,7 +2,7 @@
 //  ContactsExampleTests.m
 //  ContactsExampleTests
 //
-//  Created by Vakul Saini on 27/08/14.
+//  Created by TheTiger on 27/08/14.
 //  Copyright (c) 2014 TheTiger. All rights reserved.
 //
 

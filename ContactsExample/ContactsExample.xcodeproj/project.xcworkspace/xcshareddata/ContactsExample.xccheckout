@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5A854EC6-A407-4D2F-B07F-104CD37D54DB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ContactsExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5B036A1D-059F-4EEA-B5DE-28CE5F5A30BB</key>
+		<string>https://github.com/TheTiger13/TTContacts.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ContactsExample/ContactsExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5B036A1D-059F-4EEA-B5DE-28CE5F5A30BB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/TheTiger13/TTContacts.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5B036A1D-059F-4EEA-B5DE-28CE5F5A30BB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B036A1D-059F-4EEA-B5DE-28CE5F5A30BB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TTContacts</string>
+		</dict>
+	</array>
+</dict>
+</plist>
