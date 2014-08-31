@@ -73,7 +73,7 @@
             {
                 // Custom Error if app doesn't have users permission to get their AddressBook
                 NSMutableDictionary* details = [NSMutableDictionary dictionary];
-                [details setValue:@"App doesn't have permission of your AddressBook. Please go to your phone settings>privacy>contacts>VContacts and switch on the permission" forKey:NSLocalizedDescriptionKey];
+                [details setValue:@"App doesn't have permission of your AddressBook. Please go to your phone settings>privacy>contacts>Application Name and switch on the permission" forKey:NSLocalizedDescriptionKey];
                 NSError *error = [[NSError alloc] initWithDomain:@"Permission" code:200 userInfo:details];
                 self.addressBlock (NULL, error);
             }
